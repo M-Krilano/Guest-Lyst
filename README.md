@@ -1,4 +1,11 @@
 # Guest-Lyst
+
+<a href="https://youtu.be/VodW1alZPFQ
+" target="_blank"><img src="https://github.com/M-Krilano/Guest-Lyst/blob/master/guest_lyst_logo.png?raw=true" 
+alt="IMAGE ALT TEXT HERE" width="540" height="270" border="10" /></a>
+
+
+
 ### Splash Screen
 <a href="https://imgflip.com/gif/34cuak"><img src="https://i.imgflip.com/34cuak.gif" title="made at imgflip.com"/></a>
 ### Login Screen
