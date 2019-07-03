@@ -1,8 +1,8 @@
 # Guest-Lyst
-
+#### Click Logo to See Preview Trailer
 <a href="https://youtu.be/VodW1alZPFQ
 " target="_blank"><img src="https://github.com/M-Krilano/Guest-Lyst/blob/master/guest_lyst_logo.png?raw=true" 
-alt="IMAGE ALT TEXT HERE" width="540" height="270" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="540" height="180" border="10" /></a>
 
 
 
