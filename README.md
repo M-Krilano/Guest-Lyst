@@ -1,4 +1,19 @@
-# Guest-Lyst
+# Guest-Lyst(beta)
+
+***Front-End:***
+- React Native(v.0.60)
+
+***State Management:***
+- Apollo Client(v.2.5)
+
+***Back-End:***
+- Apollo Server(v.2)
+- AWS Lambda(node.js)
+
+***Databases:***
+- AWS DynamoDB
+
+
 #### Click Logo to See Preview Trailer
 <a href="https://youtu.be/VodW1alZPFQ
 " target="_blank"><img src="https://github.com/M-Krilano/Guest-Lyst/blob/master/guest_lyst_logo.png?raw=true" 
