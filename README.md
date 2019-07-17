@@ -1,4 +1,5 @@
 # Guest-Lyst(beta)
+***** Source Code can be provided if requested *****
 
 ***Front-End:***
 - React Native(v.0.60)
