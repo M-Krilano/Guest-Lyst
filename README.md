@@ -11,7 +11,7 @@
 - Apollo Server(v.2)
 - AWS Lambda(node.js)
 
-***Databases:***
+***Database:***
 - AWS DynamoDB
 
 
